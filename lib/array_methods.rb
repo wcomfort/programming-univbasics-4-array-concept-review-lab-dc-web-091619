@@ -6,14 +6,14 @@ end
 
 def find_max_value(array)
   array.length.times { |index|
-  return array.max
+  p array.max
   }
 end
 
 def find_min_value(array)
  counter = 0 
 while counter < array.length do
- return array.min
+ p array.min
  counter += 1
 end
 end 
