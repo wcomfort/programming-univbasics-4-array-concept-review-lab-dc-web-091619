@@ -9,7 +9,7 @@ end
 
 def find_max_value(array)
   array.length.times { |index|
-  puts array.max
+  p array.max
   }
 end
 
