@@ -16,4 +16,4 @@ while counter < array.length do
  puts array.min
  counter += 1
 end
-
+end 
